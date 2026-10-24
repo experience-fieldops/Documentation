@@ -5,3 +5,5 @@ A documentação pricipal também se encontra no seguinte link do notion:https:/
 Doc Conformidade / Não Conformidade: https://app.notion.com/p/FieldOps-Conformidades-e-N-o-Conformidades-por-Componente-3ffb0bbe800880709090cd4eeff8e6f8
 
 Mapeamento de Endpoints: https://app.notion.com/p/API-FieldOps-Mapeamento-de-Endpoints-401b0bbe800880f89e99ee559932f83d
+
+A documentação realizadas na matéria do professor Deivison também foi anexada em conjunto com as demais
