@@ -8,4 +8,6 @@ Mapeamento de Endpoints: https://app.notion.com/p/API-FieldOps-Mapeamento-de-End
 
 Fluxo de Sincronização Offline: https://app.notion.com/p/Fluxo-de-Sincroniza-o-Offline-SyncOutbox-406b0bbe800880e894e0d550c5a302c2
 
+Divergencias contratos API: 
+
 A documentação realizadas na matéria do professor Deivison também foi anexada em conjunto com as demais
